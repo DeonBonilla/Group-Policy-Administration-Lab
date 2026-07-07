@@ -62,36 +62,28 @@ Verified that Group Policy settings were successfully applied to domain users an
 
 This screenshot shows the Default Domain Policy being configured to enforce password complexity requirements, minimum password length, password history, and password expiration settings for all domain users.
 
-![Password Policy Configuration](images/password-policy.png)
-
----<img width="1536" height="1024" alt="faa43509-e9e9-4e9c-bb7f-7cef821bc4f3" src="https://github.com/user-attachments/assets/2d288852-7261-4b50-a40f-249066ec46d7" />
+<img width="1536" height="1024" alt="faa43509-e9e9-4e9c-bb7f-7cef821bc4f3" src="https://github.com/user-attachments/assets/2d288852-7261-4b50-a40f-249066ec46d7" />
 
 
 ### 🚫 Account Lockout Policies
 
 This screenshot shows the Account Lockout Policy configuration, including the account lockout threshold, lockout duration, and reset account lockout counter settings used to protect against brute-force attacks.
 
-![Account Lockout Policy](images/account-lockout.png)
-
----<img width="1536" height="1024" alt="37922562-9b4f-469b-93e6-0957b77417c1" src="https://github.com/user-attachments/assets/c7112d1d-a04c-409e-b318-09dc6979f42d" />
+<img width="1536" height="1024" alt="37922562-9b4f-469b-93e6-0957b77417c1" src="https://github.com/user-attachments/assets/c7112d1d-a04c-409e-b318-09dc6979f42d" />
 
 
 ### ⚙️ Group Policy Management
 
 This screenshot shows the Group Policy Management Console (GPMC) where Group Policy Objects (GPOs) are created, edited, and linked to the domain to centrally manage user and computer configurations.
 
-![Group Policy Management](images/group-policy-management.png)
-
----<img width="1536" height="1024" alt="a1292565-f1e7-411f-b650-02d91347ce65" src="https://github.com/user-attachments/assets/65b66096-8314-4641-81d0-829d6107d2dd" />
+<img width="1536" height="1024" alt="a1292565-f1e7-411f-b650-02d91347ce65" src="https://github.com/user-attachments/assets/65b66096-8314-4641-81d0-829d6107d2dd" />
 
 
 ### 🖥️ Policy Validation
 
 This screenshot demonstrates verifying that Group Policy settings were successfully applied using the `gpresult /r` command, confirming that the expected policies are active on the workstation.
 
-![Policy Validation](images/policy-validation.png)
-
----<img width="1403" height="1121" alt="bef570cf-2e0b-428d-9b14-c4c1d77e36df" src="https://github.com/user-attachments/assets/268b82b6-5029-44eb-b4b0-6021103d7e9b" />
+<img width="1403" height="1121" alt="bef570cf-2e0b-428d-9b14-c4c1d77e36df" src="https://github.com/user-attachments/assets/268b82b6-5029-44eb-b4b0-6021103d7e9b" />
 
 
 
